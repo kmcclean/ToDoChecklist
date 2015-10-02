@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDo Checklist</string>
+    <string name="todoTextViewLabel">To Do List</string>
+    <string name="addButtonLabel">Add</string>
+    <string name="deleteButtonLabel">Delete</string>
+    <string name="action_settings">Settings</string>
+</resources>
